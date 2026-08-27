@@ -1,1 +1,1 @@
-Replace totem of undying texture into Dot from Pokemon Horizons
+Replace totem of undying texture into Dot picture from Pokemon Horizons
