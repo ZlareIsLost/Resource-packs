@@ -1,2 +1,1 @@
-# Resource-packs
-Custom minecraft item resourcepack that i made idk
+Replace totem of undying texture into Dot from Pokemon Horizons
