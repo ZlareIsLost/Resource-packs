@@ -1,2 +1,1 @@
-# Resource-packs
-Custom minecraft item resourcepack that i made idk
+Replaces totem texture with a picture of Dot from Pokemon Horizons
