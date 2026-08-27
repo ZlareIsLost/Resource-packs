@@ -1,1 +1,2 @@
-Replaces totem texture with a picture of Dot from Pokemon Horizons
+# Resource-pack
+some resourcepack that i made idk
