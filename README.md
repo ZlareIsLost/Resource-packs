@@ -1,2 +1,2 @@
 # Resource-pack
-some resourcepack that i made idk
+some minecraft resourcepacks that i made idk
